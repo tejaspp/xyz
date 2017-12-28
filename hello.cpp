@@ -7,3 +7,5 @@
 //Isme rahegi koi kismat waali
 //Jise meri yaad aaye jab chaahe chali aaye
 //Gali no. 420, Excuse me please
+
+//Trojan Virus
