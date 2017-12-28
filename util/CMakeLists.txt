@@ -1,7 +1,0 @@
-add_subdirectory(ProjectGenerator)
-add_subdirectory(SelfCollisionChecker)
-if(USE_HRPSYSUTIL)
-  add_subdirectory(simulator)
-  add_subdirectory(viewer)
-  add_subdirectory(monitor)
-endif()
